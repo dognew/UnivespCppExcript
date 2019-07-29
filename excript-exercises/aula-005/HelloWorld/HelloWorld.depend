@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564371932 source:/home/dognew/000/Cursos/Univesp/Engenharia_da_Computacao/Grupo_de_Estudos_Cpp/UnivespCppExcript/excript-exercises/aula-005/HelloWorld/main.cpp
+	<iostream>
+	<stdlib.h>
+
