@@ -4,12 +4,10 @@
 
 .rslides_container {
   margin-top: 0;
-  margin-left: 10%;
-  margin-right: 10%;
   margin-bottom: 100px;
   position: relative;
   float: left;
-  width: 80%;
+  width: 100%;
   }
 
 .large-btns_nav {
